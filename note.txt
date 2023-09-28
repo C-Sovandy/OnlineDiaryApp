@@ -1,0 +1,8 @@
+ git init
+ git add .
+ git commit -m "First commit"
+ git commit -m "Your commit message here"
+ git remote add origin https://github.com/samnangmara/testconnetion.git
+  git remote -v
+ git push --set-upstream origin main
+ 
